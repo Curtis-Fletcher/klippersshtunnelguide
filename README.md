@@ -18,10 +18,10 @@ There are exceptions to the above, for example cases of good ISP's providing mul
 
 In this guide I will be walking through a specific setup that is reasonably secure and free, save for the components you, most likely, already have set up for your 3D Printer:
 
-# Your klipper raspberry pi
-# SSHd, the secure shell daemon built into the Raspberry Pi OS flavour of Linux
-# ConnectBot (An Android SSH client) or PuTTY (A windows SSH client)
-# SSH tunneling
+* Your klipper raspberry pi
+* SSHd, the secure shell daemon built into the Raspberry Pi OS flavour of Linux
+* ConnectBot (An Android SSH client) or PuTTY (A windows SSH client)
+* SSH tunneling
 
 `Text like this is to be entered into the raspberry pi's shell, using an SSH client like PuTTY`
 
